@@ -159,12 +159,9 @@ English and Malayalam native. Tamil and Indonesian professional. German elementa
 
 <div align="center">
 
-<!-- SNAKE: uncomment once the generate snake action has run and the output branch exists
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athul1810/athul1810/output/snake-dark.svg">
   <img alt="contribution graph snake" src="https://raw.githubusercontent.com/athul1810/athul1810/output/snake.svg">
 </picture>
--->
 
 </div>
