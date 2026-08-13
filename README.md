@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="header-v3.svg" alt="Athul Krishna Boban" width="100%">
+<img src="header-v4.svg" alt="Athul Krishna Boban" width="100%">
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/Email-athul.boban18%40gmail.com-E4E7EC?style=flat-square&labelColor=0B0E14&logo=gmail&logoColor=F0729E)](mailto:athul.boban18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-athulkb-E4E7EC?style=flat-square&labelColor=0B0E14&logo=linkedin&logoColor=45D0C0)](https://www.linkedin.com/in/athulkb/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--7650--5334-E4E7EC?style=flat-square&labelColor=0B0E14&logo=orcid&logoColor=A78BFA)](https://orcid.org/0009-0001-7650-5334)
-![Profile views](https://komarev.com/ghpvc/?username=athul1810&style=flat-square&color=A78BFA&label=Profile+views)
+[![Email](https://img.shields.io/badge/athul.boban18@gmail.com-12181F?style=for-the-badge&logo=gmail&logoColor=F0729E)](mailto:athul.boban18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/athulkb-12181F?style=for-the-badge&logo=linkedin&logoColor=45D0C0)](https://www.linkedin.com/in/athulkb/)
+[![ORCID](https://img.shields.io/badge/0009--0001--7650--5334-12181F?style=for-the-badge&logo=orcid&logoColor=A78BFA)](https://orcid.org/0009-0001-7650-5334)
+
+![Profile views](https://komarev.com/ghpvc/?username=athul1810&style=flat-square&color=12181F&label=views)
 
 </div>
 
