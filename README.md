@@ -4,13 +4,9 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,js,redis,cs,git,github,vscode&theme=dark" alt="Python, FastAPI, React, TypeScript, JavaScript, Redis, C#, Git, GitHub, VS Code">
-
-<br><br>
-
 [![Email](https://img.shields.io/badge/Email-athul.boban18%40gmail.com-E4E7EC?style=flat-square&labelColor=0B0E14&logo=gmail&logoColor=F0729E)](mailto:athul.boban18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-athulkb-E4E7EC?style=flat-square&labelColor=0B0E14&logo=linkedin&logoColor=45D0C0)](https://www.linkedin.com/in/athulkb/)
-[![Location](https://img.shields.io/badge/Based%20in-Singapore-E4E7EC?style=flat-square&labelColor=0B0E14&logo=googlemaps&logoColor=FFB454)](#)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--7650--5334-E4E7EC?style=flat-square&labelColor=0B0E14&logo=orcid&logoColor=A78BFA)](https://orcid.org/0009-0001-7650-5334)
 ![Profile views](https://komarev.com/ghpvc/?username=athul1810&style=flat-square&color=A78BFA&label=Profile+views)
 
 </div>
@@ -19,40 +15,114 @@
 
 ## Now
 
-Reading for an **MSc in Artificial Intelligence at Nanyang Technological University**, Singapore, through to December 2027. Coursework this semester covers generative models for visual synthesis and deep neural networks for natural language.
+**MSc Artificial Intelligence** at Nanyang Technological University, Singapore, through to December 2027. Deep neural networks for NLP, generative AI for visual synthesis, deep learning and applications.
 
-Building a **limit order book matching engine** with price time priority, benchmarked on latency percentiles rather than averages. In progress, repo goes public when the benchmark harness is reproducible.
+Building a **limit order book matching engine** with price time priority, benchmarked on latency percentiles rather than averages. Repo goes public when the benchmark harness is reproducible.
+
+---
+
+## Zypit · Founding Engineer
+
+Performance based creator marketing platform, scaled to **65,000 users**, running verified view campaigns for five brands.
+
+Shipped **Obula**, an AI video pipeline turning long form video into short form clips with automated captioning and B roll generation. Over **500 videos** processed for **1,000 users**.
+
+Led a small engineering team, working directly with the founders to turn business requirements into shipped features. Owned delivery end to end across frontend, backend and database.
+
+`React` `Next.js` `TypeScript` `Node.js`
 
 ---
 
 ## Research
 
-A **visual speech recognition** model reaching **16.06% word error rate** and **5.0% character error rate** on the GRID corpus. Manuscript under review at IET Electronics Letters.
+**Visual speech recognition.** A 3D convolutional network with multi head self attention and a bidirectional LSTM, trained end to end with CTC. **16.06% word error rate** and **5.0% character error rate** on the GRID corpus at roughly 23 frames per second, beating recurrent only and transformer baselines trained on identical data.
 
-Two patent pending projects, **ROOTED** and **ESG AI**.
+Sivapatham, S., **Boban, A. K.** and Kar, A. *Multi-Head Self-Attention and Bi-LSTM Based 3D-CNN for Visual Speech Recognition.* Submitted to IET Electronics Letters, under review.
 
-A **TEDx** talk on AI driven search.
+Research Intern at the Centre for Advanced Data Science, VIT Chennai, March 2025 to February 2026.
+
+---
+
+## Projects
+
+**ROOTED** · patent pending
+Deep learning plant identification linked to a structured medicinal knowledge graph, with a rule based herb and drug interaction module. Flutter and Firebase.
+
+**ESG AI** · patent pending
+ML and NLP pipeline predicting ESG scores from corporate disclosures, with SHAP and LIME attribution and a Streamlit dashboard.
+
+**Diabetic Retinopathy Detection**
+SVM and Random Forest baselines against fine tuned ResNet and VGG for severity grading on public retinal benchmarks. 96% accuracy, 0.97 AUC.
+
+---
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0B0E14?style=flat-square&logo=python&logoColor=E4E7EC)
+![C++](https://img.shields.io/badge/C%2B%2B-0B0E14?style=flat-square&logo=cplusplus&logoColor=E4E7EC)
+![C](https://img.shields.io/badge/C-0B0E14?style=flat-square&logo=c&logoColor=E4E7EC)
+![Java](https://img.shields.io/badge/Java-0B0E14?style=flat-square&logo=openjdk&logoColor=E4E7EC)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0E14?style=flat-square&logo=typescript&logoColor=E4E7EC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0E14?style=flat-square&logo=javascript&logoColor=E4E7EC)
+![SQL](https://img.shields.io/badge/SQL-0B0E14?style=flat-square&logo=postgresql&logoColor=E4E7EC)
+![LaTeX](https://img.shields.io/badge/LaTeX-0B0E14?style=flat-square&logo=latex&logoColor=E4E7EC)
+
+**Machine learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0B0E14?style=flat-square&logo=pytorch&logoColor=E4E7EC)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B0E14?style=flat-square&logo=tensorflow&logoColor=E4E7EC)
+![Keras](https://img.shields.io/badge/Keras-0B0E14?style=flat-square&logo=keras&logoColor=E4E7EC)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0B0E14?style=flat-square&logo=scikitlearn&logoColor=E4E7EC)
+![OpenCV](https://img.shields.io/badge/OpenCV-0B0E14?style=flat-square&logo=opencv&logoColor=E4E7EC)
+![NumPy](https://img.shields.io/badge/NumPy-0B0E14?style=flat-square&logo=numpy&logoColor=E4E7EC)
+![Pandas](https://img.shields.io/badge/Pandas-0B0E14?style=flat-square&logo=pandas&logoColor=E4E7EC)
+![SciPy](https://img.shields.io/badge/SciPy-0B0E14?style=flat-square&logo=scipy&logoColor=E4E7EC)
+![spaCy](https://img.shields.io/badge/spaCy-0B0E14?style=flat-square&logo=spacy&logoColor=E4E7EC)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-0B0E14?style=flat-square&logo=weightsandbiases&logoColor=E4E7EC)
+
+**Backend and data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi&logoColor=E4E7EC)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0B0E14?style=flat-square&logo=sqlalchemy&logoColor=E4E7EC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql&logoColor=E4E7EC)
+![Node.js](https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs&logoColor=E4E7EC)
+![Redis](https://img.shields.io/badge/Redis-0B0E14?style=flat-square&logo=redis&logoColor=E4E7EC)
+![Prisma](https://img.shields.io/badge/Prisma-0B0E14?style=flat-square&logo=prisma&logoColor=E4E7EC)
+![Firebase](https://img.shields.io/badge/Firebase-0B0E14?style=flat-square&logo=firebase&logoColor=E4E7EC)
+
+**Interfaces**
+
+![React](https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react&logoColor=E4E7EC)
+![Next.js](https://img.shields.io/badge/Next.js-0B0E14?style=flat-square&logo=nextdotjs&logoColor=E4E7EC)
+![Flutter](https://img.shields.io/badge/Flutter-0B0E14?style=flat-square&logo=flutter&logoColor=E4E7EC)
+![Streamlit](https://img.shields.io/badge/Streamlit-0B0E14?style=flat-square&logo=streamlit&logoColor=E4E7EC)
+![Figma](https://img.shields.io/badge/Figma-0B0E14?style=flat-square&logo=figma&logoColor=E4E7EC)
+
+**Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-0B0E14?style=flat-square&logo=docker&logoColor=E4E7EC)
+![AWS](https://img.shields.io/badge/AWS-0B0E14?style=flat-square&logo=amazonwebservices&logoColor=E4E7EC)
+![Git](https://img.shields.io/badge/Git-0B0E14?style=flat-square&logo=git&logoColor=E4E7EC)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0B0E14?style=flat-square&logo=githubactions&logoColor=E4E7EC)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-0B0E14?style=flat-square&logo=googlecolab&logoColor=E4E7EC)
 
 ---
 
 <details>
-<summary><b>Industry work</b></summary>
+<summary><b>Industry work at GBM Dubai</b></summary>
 
 <br>
 
-Built during a software engineering internship at Gulf Business Machines, Dubai. The source is not public.
+Software Engineering Intern, Digital and Information Technology, May to July 2026. The source is not public.
 
-**VenZone** · vendor lifecycle management platform
-Sole developer, around 55,000 lines, 385 automated tests. A ten state workflow engine with capability based access control. Risk and allocation are modelled inside the platform rather than exported to a spreadsheet: logistic regression risk scoring, Monte Carlo value at risk simulation, HHI concentration analysis, and MILP allocation optimization with SciPy. Documents are read offline through RapidOCR and ONNX, a retrieval augmented assistant answers questions against vendor records, and WebSocket collaboration keeps several reviewers on the same file.
-`FastAPI` `React` `TypeScript` `SciPy` `ONNX` `WebSockets`
+**Revio** · AI document extraction embedded in SAP CPQ
+Parses unstructured vendor quotes across PDF, XLSX and CSV averaging 30 or more line items into structured quote fields, cutting entry from two or three hours of manual work to under a minute per document, against a monthly volume of roughly 1,000 quotes.
 
-**Revio** · quote extraction inside SAP CPQ
-AI powered vendor quote extraction, embedded as a Razor tab so the person pricing a deal never leaves the quote they are working on. A FastAPI backend exposes scan, match and push endpoints, and vendor quotes in PDF and Excel are mapped straight to the fields the target quote requires instead of being normalized generically and reconciled afterwards.
-`FastAPI` `Razor` `SAP CPQ` `Python`
+**VenZone** · vendor lifecycle platform, sole developer
+55,000 lines. A ten state workflow engine with a visual workflow designer, capability based access control and a retrieval augmented assistant. The quantitative risk layer covers Monte Carlo value at risk, Herfindahl-Hirschman concentration analysis, logistic regression risk scoring and a SciPy mixed integer solver for award allocation. Offline OCR through RapidOCR and ONNX Runtime keeps extraction inside the enterprise network. FastAPI, SQLAlchemy 2.0, PostgreSQL and React 18 with TypeScript, validated against 385 automated tests.
 
-**Project Timeline Dashboard** · project tracking, no framework
-Around 4,200 lines of plain JavaScript with Upstash Redis handling sync across devices. No framework and no build step.
-`JavaScript` `Redis`
+**Team Portal and scheduling dashboard**
+Features and functional testing on an internal portal built with Next.js 15, React 19, Prisma and PostgreSQL. A capacity constrained scheduling dashboard in vanilla JavaScript with Upstash Redis sync.
 
 </details>
 
@@ -63,21 +133,25 @@ Around 4,200 lines of plain JavaScript with Upstash Redis handling sync across d
 
 **Education**
 MSc Artificial Intelligence, Nanyang Technological University. Singapore, 2026 to 2027.
+BTech Computer Science and Engineering, AI and ML. Vellore Institute of Technology, Chennai, 2022 to 2026.
 
-**Experience**
-Software Engineering Intern, Gulf Business Machines. Dubai, United Arab Emirates.
+**Earlier experience**
+AI and ML Intern, Techgentsia Software Technologies, Kochi. Voice change detection in PyTorch, machine vision pipelines in OpenCV, quantization and batch inference for constrained deployment.
 
-**Machine learning**
-`Sequence models` `Computer vision` `Logistic regression` `Monte Carlo methods` `RAG` `ONNX` `RapidOCR`
+**Modeling**
+CNNs including ResNet, VGG and EfficientNet, 3D CNNs, Transformers, Vision Transformers, RNNs, LSTMs, GRUs, GANs, autoencoders, multi head self attention, CTC, transfer learning, retrieval augmented generation.
 
-**Backend**
-`Python` `FastAPI` `WebSockets` `Redis` `SciPy` `REST design`
+**Quantitative**
+Monte Carlo simulation, value at risk, mixed integer linear programming, logistic regression, Herfindahl-Hirschman index, probability, statistical inference, optimization, dimensionality reduction.
 
-**Frontend and tooling**
-`TypeScript` `React` `JavaScript` `Razor` `SAP CPQ` `Git`
+**Interpretability**
+SHAP, LIME, attention visualisation, gradient based attribution.
 
-**Also**
-British Physics Olympiad merit. Second place, Kyushu Institute of Technology.
+**Speaking and awards**
+TEDx speaker, *Google: The Immovable Mountain*, on AI driven search. Second place, Kyushu Institute of Technology project competition. Merit certificate, British Physics Olympiad.
+
+**Languages**
+English and Malayalam native. Tamil and Indonesian professional. German elementary.
 
 </details>
 
@@ -85,12 +159,10 @@ British Physics Olympiad merit. Second place, Kyushu Institute of Technology.
 
 <div align="center">
 
-<!-- SNAKE: uncomment the block below once the "generate snake" action has run
-     successfully and the output branch exists in this repo.
+<!-- SNAKE: uncomment once the generate snake action has run and the output branch exists
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athul1810/athul1810/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athul1810/athul1810/output/snake.svg">
   <img alt="contribution graph snake" src="https://raw.githubusercontent.com/athul1810/athul1810/output/snake.svg">
 </picture>
 -->
