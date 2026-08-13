@@ -4,10 +4,6 @@
 
 <br><br>
 
-**Machine learning and backend systems that go into production.**
-
-<br>
-
 <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,js,redis,cs,git,github,vscode&theme=dark" alt="Python, FastAPI, React, TypeScript, JavaScript, Redis, C#, Git, GitHub, VS Code">
 
 <br><br>
@@ -15,6 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-athul.boban18%40gmail.com-E4E7EC?style=flat-square&labelColor=0B0E14&logo=gmail&logoColor=F0729E)](mailto:athul.boban18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-athulkb-E4E7EC?style=flat-square&labelColor=0B0E14&logo=linkedin&logoColor=45D0C0)](https://www.linkedin.com/in/athulkb/)
 [![Location](https://img.shields.io/badge/Based%20in-Singapore-E4E7EC?style=flat-square&labelColor=0B0E14&logo=googlemaps&logoColor=FFB454)](#)
+![Profile views](https://komarev.com/ghpvc/?username=athul1810&style=flat-square&color=A78BFA&label=Profile+views)
 
 </div>
 
@@ -88,10 +85,14 @@ British Physics Olympiad merit. Second place, Kyushu Institute of Technology.
 
 <div align="center">
 
+<!-- SNAKE: uncomment the block below once the "generate snake" action has run
+     successfully and the output branch exists in this repo.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athul1810/athul1810/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athul1810/athul1810/output/snake.svg">
   <img alt="contribution graph snake" src="https://raw.githubusercontent.com/athul1810/athul1810/output/snake.svg">
 </picture>
+-->
 
 </div>
