@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header-v2.svg" alt="Athul Krishna Boban" width="100%">
+<img src="header-v3.svg" alt="Athul Krishna Boban" width="100%">
 
 <br><br>
 
@@ -56,55 +56,11 @@ SVM and Random Forest baselines against fine tuned ResNet and VGG for severity g
 
 ---
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-0B0E14?style=flat-square&logo=python&logoColor=E4E7EC)
-![C++](https://img.shields.io/badge/C%2B%2B-0B0E14?style=flat-square&logo=cplusplus&logoColor=E4E7EC)
-![C](https://img.shields.io/badge/C-0B0E14?style=flat-square&logo=c&logoColor=E4E7EC)
-![Java](https://img.shields.io/badge/Java-0B0E14?style=flat-square&logo=openjdk&logoColor=E4E7EC)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0E14?style=flat-square&logo=typescript&logoColor=E4E7EC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0E14?style=flat-square&logo=javascript&logoColor=E4E7EC)
-![SQL](https://img.shields.io/badge/SQL-0B0E14?style=flat-square&logo=postgresql&logoColor=E4E7EC)
-![LaTeX](https://img.shields.io/badge/LaTeX-0B0E14?style=flat-square&logo=latex&logoColor=E4E7EC)
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts,js,pytorch,tensorflow,opencv,fastapi,flask,nodejs,react,nextjs,flutter,postgres,redis,firebase,prisma,docker,aws,git,github,figma,linux,bash,vscode&perline=9&theme=dark" alt="Python, C++, C, Java, TypeScript, JavaScript, PyTorch, TensorFlow, OpenCV, FastAPI, Flask, Node.js, React, Next.js, Flutter, PostgreSQL, Redis, Firebase, Prisma, Docker, AWS, Git, GitHub, Figma, Linux, Bash, VS Code">
 
-**Machine learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0B0E14?style=flat-square&logo=pytorch&logoColor=E4E7EC)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0B0E14?style=flat-square&logo=tensorflow&logoColor=E4E7EC)
-![Keras](https://img.shields.io/badge/Keras-0B0E14?style=flat-square&logo=keras&logoColor=E4E7EC)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0B0E14?style=flat-square&logo=scikitlearn&logoColor=E4E7EC)
-![OpenCV](https://img.shields.io/badge/OpenCV-0B0E14?style=flat-square&logo=opencv&logoColor=E4E7EC)
-![NumPy](https://img.shields.io/badge/NumPy-0B0E14?style=flat-square&logo=numpy&logoColor=E4E7EC)
-![Pandas](https://img.shields.io/badge/Pandas-0B0E14?style=flat-square&logo=pandas&logoColor=E4E7EC)
-![SciPy](https://img.shields.io/badge/SciPy-0B0E14?style=flat-square&logo=scipy&logoColor=E4E7EC)
-![spaCy](https://img.shields.io/badge/spaCy-0B0E14?style=flat-square&logo=spacy&logoColor=E4E7EC)
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-0B0E14?style=flat-square&logo=weightsandbiases&logoColor=E4E7EC)
-
-**Backend and data**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi&logoColor=E4E7EC)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0B0E14?style=flat-square&logo=sqlalchemy&logoColor=E4E7EC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql&logoColor=E4E7EC)
-![Node.js](https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs&logoColor=E4E7EC)
-![Redis](https://img.shields.io/badge/Redis-0B0E14?style=flat-square&logo=redis&logoColor=E4E7EC)
-![Prisma](https://img.shields.io/badge/Prisma-0B0E14?style=flat-square&logo=prisma&logoColor=E4E7EC)
-![Firebase](https://img.shields.io/badge/Firebase-0B0E14?style=flat-square&logo=firebase&logoColor=E4E7EC)
-
-**Interfaces**
-
-![React](https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react&logoColor=E4E7EC)
-![Next.js](https://img.shields.io/badge/Next.js-0B0E14?style=flat-square&logo=nextdotjs&logoColor=E4E7EC)
-![Flutter](https://img.shields.io/badge/Flutter-0B0E14?style=flat-square&logo=flutter&logoColor=E4E7EC)
-![Streamlit](https://img.shields.io/badge/Streamlit-0B0E14?style=flat-square&logo=streamlit&logoColor=E4E7EC)
-![Figma](https://img.shields.io/badge/Figma-0B0E14?style=flat-square&logo=figma&logoColor=E4E7EC)
-
-**Platforms**
-
-![Docker](https://img.shields.io/badge/Docker-0B0E14?style=flat-square&logo=docker&logoColor=E4E7EC)
-![AWS](https://img.shields.io/badge/AWS-0B0E14?style=flat-square&logo=amazonwebservices&logoColor=E4E7EC)
-![Git](https://img.shields.io/badge/Git-0B0E14?style=flat-square&logo=git&logoColor=E4E7EC)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0B0E14?style=flat-square&logo=githubactions&logoColor=E4E7EC)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-0B0E14?style=flat-square&logo=googlecolab&logoColor=E4E7EC)
+</div>
 
 ---
 
