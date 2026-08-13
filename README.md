@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Athul Krishna Boban" width="100%">
+<img src="header-v2.svg" alt="Athul Krishna Boban" width="100%">
 
 <br><br>
 
